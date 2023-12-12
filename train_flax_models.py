@@ -1,3 +1,4 @@
+"""Example script to train a model with flax using the SVD method as usual."""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -42,7 +43,14 @@ params = {"axes.grid": True,
 plt.rcParams.update(params)
 
 lcs_dir = "/home/urash/twouters/KN_Lightcurves/lightcurves/lcs_bulla_2022" # for remote SSH Potsdam
-out_dir = "/home/urash/twouters/nmma_models/flax_models/" # initial flax models will be saved here
+out_dir = "/home/urash/twouters/nmma_models/flax_models_new/" # initial flax models will be saved here
+# Check if directory exists, if not, create it
+if not os.path.isdir(out_dir):
+    os.mkdir(out_dir)
+# If the directory exists, clean it
+else:
+    for file in os.listdir(out_dir):
+        os.remove(os.path.join(out_dir, file))
 filenames = os.listdir(lcs_dir)
 full_filenames = [os.path.join(lcs_dir, f) for f in filenames]
 # print(f"There are {len(full_filenames)} lightcurves for this model.")
@@ -82,4 +90,7 @@ training_model = SVDTrainingModel(
         n_coeff=svd_ncoeff,
         interpolation_type="flax",
         svd_path=out_dir # initial flax models will be saved here
+        # start_training=False
     )
+
+
