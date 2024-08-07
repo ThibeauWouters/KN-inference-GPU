@@ -1,0 +1,385 @@
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Running for label 'AT2017gfo_dL40_tight_iota', output will be saved to 'outdir'
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : Analysis priors:
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis priors:
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : Analysis priors:
+12:11 INFO    : inclination_EM=TruncatedGaussian(mu=0.3717551306747922, sigma=0.04363323129985824, minimum=0.0, maximum=1.5707963267948966, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_dyn=Uniform(minimum=-3, maximum=-1.7, name='log10_mej_dyn', latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_dyn=Uniform(minimum=0.12, maximum=0.25, name='vej_dyn', latex_label='$V^{\\rm{dyn}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : Yedyn=Uniform(minimum=0.15, maximum=0.3, name='Yedyn', latex_label='$Y_{\\rm{dyn}}$', unit=None, boundary=None)
+12:11 INFO    : Yewind=Uniform(minimum=0.2, maximum=0.4, name='Yewind', latex_label='$Y_{\\rm{wind}}$', unit=None, boundary=None)
+12:11 INFO    : log10_mej_wind=Uniform(minimum=-2, maximum=-0.89, name='log10_mej_wind', latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : vej_wind=Uniform(minimum=0.03, maximum=0.15, name='vej_wind', latex_label='$V^{\\rm{wind}}_{\\rm{ej}}$', unit=None, boundary=None)
+12:11 INFO    : timeshift=0.0
+12:11 INFO    : luminosity_distance=40.0
+12:11 INFO    : Ebv=0.0
+12:11 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+12:11 INFO    : Analysis likelihood noise evidence: 0.0
+12:11 INFO    : Single likelihood evaluation took 3.542e-02 s
+12:11 INFO    : Single likelihood evaluation took 3.532e-02 s
+12:11 INFO    : Single likelihood evaluation took 3.519e-02 s
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7ffa5459bf40>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f2314667a90>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 INFO    : Single likelihood evaluation took 3.576e-02 s
+12:11 INFO    : Single likelihood evaluation took 3.550e-02 s
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fc3e9ebfc40>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f66a81b7b80>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fd9382affa0>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 INFO    : Single likelihood evaluation took 3.556e-02 s
+12:11 INFO    : Single likelihood evaluation took 3.592e-02 s
+12:11 INFO    : Single likelihood evaluation took 3.581e-02 s
+12:11 INFO    : Single likelihood evaluation took 3.575e-02 s
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f19c008bdf0>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f30745e7fd0>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 INFO    : Single likelihood evaluation took 3.539e-02 s
+12:11 INFO    : Single likelihood evaluation took 3.549e-02 s
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fc4dc6efe50>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 INFO    : Single likelihood evaluation took 3.604e-02 s
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fac04297b50>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f19552affa0>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fd11c393ee0>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f28d4663be0>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 INFO    : Single likelihood evaluation took 3.510e-02 s
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7ff0f1e8bf70>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 INFO    : Single likelihood evaluation took 3.561e-02 s
+12:11 INFO    : Single likelihood evaluation took 3.949e-02 s
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7fad846d7cd0>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 INFO    : Single likelihood evaluation took 3.549e-02 s
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7f9f504dbd30>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:11 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+12:11 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+12:11 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 7, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x7ffb0873b970>>}
+12:11 INFO    : Temporary directory incompatible with MPI, will run in original directory
+12:11 INFO    : Using output file outdir/pm_AT2017gfo_dL40_tight_iota/
+12:16 INFO    : Sampling time: 0:04:48.798546
+12:16 INFO    : Sampling time: 0:04:48.930248
+12:16 INFO    : Sampling time: 0:04:48.775109
+12:16 INFO    : Sampling time: 0:04:48.826389
+12:16 INFO    : Sampling time: 0:04:48.806668
+12:16 INFO    : Sampling time: 0:04:48.966835
+12:16 INFO    : Sampling time: 0:04:48.799615
+12:16 INFO    : Sampling time: 0:04:48.908922
+12:16 INFO    : Sampling time: 0:04:48.483294
+12:16 INFO    : Sampling time: 0:04:48.453802
+12:16 INFO    : Sampling time: 0:04:48.770024
+12:16 INFO    : Sampling time: 0:04:48.436685
+12:16 INFO    : Sampling time: 0:04:48.907358
+12:16 INFO    : Sampling time: 0:04:48.955099
+12:16 INFO    : Sampling time: 0:04:48.714550
+12:16 INFO    : Sampling time: 0:04:48.775557
+12:16 INFO    : Summary of results:
+nsamples: 16481
+ln_noise_evidence:  0.000
+ln_evidence: -151.066 +/-  0.070
+ln_bayes_factor: -151.066 +/-  0.070
+
+12:16 INFO    : Summary of results:
+nsamples: 16481
+ln_noise_evidence:  0.000
+ln_evidence: -151.066 +/-  0.070
+ln_bayes_factor: -151.066 +/-  0.070
+
+12:16 INFO    : Writing samples file to /nfs/urash/twouters/KN-inference-GPU/inference_runs/Bu2023_test_run/runs/outdir/AT2017gfo_dL40_tight_iota_posterior_samples.dat
+12:16 INFO    : Summary of results:
+nsamples: 16481
+ln_noise_evidence:  0.000
+ln_evidence: -151.066 +/-  0.070
+ln_bayes_factor: -151.066 +/-  0.070
+
+12:16 INFO    : Summary of results:
+nsamples: 16481
+ln_noise_evidence:  0.000
+ln_evidence: -151.066 +/-  0.070
+ln_bayes_factor: -151.066 +/-  0.070
+
+12:16 INFO    : Summary of results:
+nsamples: 16481
+ln_noise_evidence:  0.000
+ln_evidence: -151.066 +/-  0.070
+ln_bayes_factor: -151.066 +/-  0.070
+
+12:16 INFO    : Summary of results:
+nsamples: 16481
+ln_noise_evidence:  0.000
+ln_evidence: -151.066 +/-  0.070
+ln_bayes_factor: -151.066 +/-  0.070
+
+12:16 INFO    : Summary of results:
+nsamples: 16481
+ln_noise_evidence:  0.000
+ln_evidence: -151.066 +/-  0.070
+ln_bayes_factor: -151.066 +/-  0.070
+
+12:16 INFO    : Summary of results:
+nsamples: 16481
+ln_noise_evidence:  0.000
+ln_evidence: -151.066 +/-  0.070
+ln_bayes_factor: -151.066 +/-  0.070
+

@@ -24,7 +24,7 @@ MODEL_NAME = "Bu2022Ye"
 model_function = MODEL_FUNCTIONS[MODEL_NAME]
 MAG_NCOEFF = 10
 
-def array_to_dict(arr):
+def array_to_dict(arr, parameters):
     """Auxiliary function for evaluating the NMMA likelihood
 
     Args:

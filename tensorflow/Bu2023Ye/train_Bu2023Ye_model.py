@@ -25,7 +25,7 @@ print("CUDA there?")
 print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 
 params = {"axes.grid": True,
-        "text.usetex" : True,
+        "text.usetex" : False,
         "font.family" : "serif",
         "ytick.color" : "black",
         "xtick.color" : "black",
@@ -42,7 +42,10 @@ params = {"axes.grid": True,
 
 plt.rcParams.update(params)
 
-lcs_dir = "/home/urash/twouters/KN_Lightcurves/lightcurves/bulla_2023" # location on the Potsdam cluster
+# lcs_dir = "/home/urash/twouters/KN_lightcurves/lightcurves/bulla_2023" # location on the Potsdam cluster
+
+# This is the new model with the updated heat curves
+lcs_dir = "/home/urash/twouters/KN_lightcurves/lightcurves/bulla_2023_newheat/possis_newheat_lcs" # location on the Potsdam cluster
 model_name = "Bu2023Ye"
 
 filenames = os.listdir(lcs_dir)
@@ -55,14 +58,17 @@ dat = dat.rename(columns={" t[days]": "t"})
 t = dat["t"].values
 
 value_columns = dat.columns[1:-1] # discard first and last, to get "true" data columns
-print(list(value_columns))
-
 
 print("Interpolating data")
 data = read_photometry_files(full_filenames)
 data = interpolate_nans(data)
 keys = list(data.keys())
 filts = sorted(list(set(data[keys[0]].keys()) - {"t"}))
+
+# These are the filters that Shreya is training on:
+filts = ["sdssu", "ps1__g", "ps1__r", "ps1__i", "ps1__z", "ps1__y", "2massj", "2massh", "2massks"]
+
+print("filts")
 print(filts)
 
 MODEL_FUNCTIONS = {
@@ -78,17 +84,17 @@ all_keys = list(training_data.keys())
 first_file_names = [f for f in all_keys if f.startswith("MDyn")]
 second_file_names = [f for f in all_keys if f.startswith("dyn")]
 
-for example_key in [first_file_names[0], second_file_names[0]]:
-    print("------------------")
-    example_training_data = training_data[example_key]
-    print(f"Keys (and some values) of dictionary of {example_key}")
-    for key in example_training_data.keys():
-        value = example_training_data[key]
-        if key in parameters:
-            print(f"{key} : {value}")
-            
-            
+# for example_key in [first_file_names[0], second_file_names[0]]:
+#     print("------------------")
+#     example_training_data = training_data[example_key]
+#     print(f"Keys (and some values) of dictionary of {example_key}")
+#     for key in example_training_data.keys():
+#         value = example_training_data[key]
+#         if key in parameters:
+#             print(f"{key} : {value}")
+
 svd_ncoeff = 10
+svd_path = "/home/urash/twouters/new_nmma_models/newheat/Bu2023_tf/"
 training_model = SVDTrainingModel(
         model_name,
         training_data,
@@ -97,9 +103,9 @@ training_model = SVDTrainingModel(
         filts,
         n_coeff=svd_ncoeff,
         interpolation_type="tensorflow",
-        svd_path = "/home/urash/twouters/new_nmma_models/Bu2023Ye_tf",
-        start_training=False # don't train, just prep the data
-        
+        svd_path = svd_path,
+        start_training=False, # don't train, just prep the data
+        load_model = False # don't load the model
     )
 
 svd_model = training_model.generate_svd_model()
@@ -185,7 +191,6 @@ for i, filt in enumerate(filts):
     # Also save the model as attribute to the object, see NMMA source code for this
     training_model.svd_model[filt]["model"] = model
     
-svd_path = "/home/urash/twouters/new_nmma_models/Bu2023Ye_tf" # location on the Potsdam cluster
 training_model.svd_path = svd_path
 
 training_model.save_model()

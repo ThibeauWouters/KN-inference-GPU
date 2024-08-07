@@ -1,6 +1,0 @@
-KNtimeshift=0
-luminosity_distance = TruncatedGaussian(name='luminosity_distance', mu=40.7, sigma=2.36, minimum=29, maximum=53, latex_label='D_L')
-inclination_EM = TruncatedGaussian(name='inclination_EM', mu=21.3 * np.pi / 180, sigma=2.5 * np.pi / 180, minimum=0., maximum=np.pi/2., latex_label='$\\iota$')
-KNphi = Uniform(name='KNphi', minimum=15., maximum=75., latex_label='$\Phi$')
-log10_mej_dyn  = Uniform(name='log10_mej_dyn', minimum=-3., maximum=-1., latex_label='$\\log_{10}M^{\\rm{dyn}}_{\\rm{ej}}$')
-log10_mej_wind = Uniform(name='log10_mej_wind', minimum=-3., maximum=-0.5, latex_label='$\\log_{10}M^{\\rm{wind}}_{\\rm{ej}}$')

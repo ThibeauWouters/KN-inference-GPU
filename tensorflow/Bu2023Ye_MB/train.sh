@@ -1,0 +1,1 @@
+create-svdmodel --model Bu2023Ye --svd-path ./svdmodels --interpolation-type tensorflow --tmin 0.1 --tmax 14.0 --dt 0.1 --data-path /home/urash/twouters/KN_lightcurves/lightcurves/bulla_2023_newheat/possis_newheat_lcs --plot --ncpus 16 --filters sdssu,ps1__z,ps1__y,ps1__r,ps1__i,ps1__g,2massks,2massj,2massh --tensorflow-nepochs 100
