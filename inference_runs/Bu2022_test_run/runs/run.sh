@@ -18,6 +18,6 @@ mpiexec -np 16 lightcurve-analysis \
     --error-budget 1 \
     --nlive 2048 \
     --Ebv-max 0 \
-    --local-only \
     --interpolation-type tensorflow \
+    --local-only \
     --plot
