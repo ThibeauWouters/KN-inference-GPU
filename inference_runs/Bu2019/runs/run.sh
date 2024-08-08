@@ -2,7 +2,7 @@ export MKL_NUM_THREADS=1
 export NUMEXPR_NUM_THREADS=1
 export OMP_NUM_THREADS=1
 
-export label=AT2017gfo_dL_free
+export label=AT2017gfo_dL_44
 
 mpiexec -np 16 lightcurve-analysis \
     --model Bu2019lm \
